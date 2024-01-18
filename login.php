@@ -46,8 +46,8 @@
         </div>
         <div class="container w-50 d-flex align-items-center">
             <div class="w-100">
-                <h3 class="w-75 fw-bold">Bisnis Daring dan Pemasaran</h3>
-                <p>Point Of Sale Application</p>
+                <h1 class="w-75 fw-bold m-0">BDP MART</h1>
+                <p class="m-0">Point Of Sale Application</p>
                 <form action="" method="POST" class="w-75 mt-4">
                     <div class="mb-3">
                         <label for="username">Username</label>
@@ -58,7 +58,7 @@
                         <input type="password" name="password" class="form-control">
                     </div>
                     <div>
-                        <input type="submit" class="btn btn-warning w-100">
+                        <input type="submit" class="btn btn-warning w-100" value="Login">
                     </div>
                 </form>
             </div>
